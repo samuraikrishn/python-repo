@@ -1,4 +1,4 @@
-# First copy this in your my sql server
+# First copy this in your MySQL server
 
 # -- Create the database
 # CREATE DATABASE StockManagement;
