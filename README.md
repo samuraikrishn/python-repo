@@ -1,5 +1,5 @@
 
-# 👋 Hey there, I'm Krish!
+# 👋 Hey there, I'm Krishn!
 
 ### 🐧 Linux Developer | 💻 Open-Source Enthusiast | ⚙️ System Explorer  
 
